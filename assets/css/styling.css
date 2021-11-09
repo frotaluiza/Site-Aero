@@ -1,0 +1,17 @@
+@font-face{
+    font-family: "minhafont";
+    src: url('../fonts/minhafont') format("truetype");
+  }
+  h1{
+  font-family: "minhafont" !important;
+  }
+
+  #logo{
+    height:90px;
+    width:auto;
+  }
+
+
+
+
+  
