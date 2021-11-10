@@ -25,7 +25,7 @@
   }
 
   @media only screen and (max-width:768px){
-    .navbar-area.sticky{
+    .navbar-area.sticky,.navbar-area{
       padding: 0px 0px 0px 0px !important;
     }
     #logo{
