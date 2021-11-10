@@ -6,10 +6,27 @@
   font-family: "minhafont" !important;
   }
 
+  #conquistas{
+    overflow-x:hidden !important;
+  }
+
   #logo{
     height:60px;
     width:auto;
   }
+
+  .hero-area{
+    max-width: 100%;
+  }
+
+  
+
+  /* Colocando o hover nos botões do segundo nav-bar */
+
+  /* #navbarSupportedContent2 a :hover{
+    background-color:rebeccapurple !important;
+
+  } */
 
 
 
