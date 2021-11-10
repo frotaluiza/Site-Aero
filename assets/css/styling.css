@@ -24,12 +24,18 @@
     border-color: RGB(240, 213, 81) !important;
   }
 
-  /* Colocando o hover nos botões do segundo nav-bar */
+  @media only screen and (max-width:768px){
+    .navbar-area.sticky{
+      padding: 0px 0px 0px 0px !important;
+    }
+    #logo{
+      height:40px !important;
+      
+    }
+  }
 
-  /* #navbarSupportedContent2 a :hover{
-    background-color:rebeccapurple !important;
 
-  } */
+
 
 
 
