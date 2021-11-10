@@ -19,7 +19,10 @@
     max-width: 100%;
   }
 
-  
+  .linkNav:hover{
+    color: RGB(240, 213, 81) !important ;
+    border-color: RGB(240, 213, 81) !important;
+  }
 
   /* Colocando o hover nos botões do segundo nav-bar */
 
